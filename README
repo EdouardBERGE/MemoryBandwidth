@@ -5,4 +5,9 @@ Should be enough to see performances of ISA card or Local bus graphic card
 
 Precision for Memory test starts from 1kib, enough to see internal cache efficiency
 
+Compilation with OpenWatcom :
+
+wcl386.exe BW.C /4r /ox
+
+
 
