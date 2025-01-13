@@ -1,0 +1,8 @@
+
+simple MSDOS programm using clock to measure READ/WRITE/COPY performance in Memory and graphic card memory
+
+Should be enough to see performances of ISA card or Local bus graphic card
+
+Precision for Memory test starts from 1kib, enough to see internal cache efficiency
+
+
